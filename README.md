@@ -34,7 +34,6 @@ This design is an optimization of an existing case, with the **key highlight bei
 
 This design is a remix and optimization of the **[Waveshare RP2040 One and RP2350 One case]** by **pat.vdleer** on MakerWorld.
 
-A huge thank you to the original creator for their excellent work and contribution, which provided a great foundation for this project.
 
 Original Design Link: [https://makerworld.com/en/models/937167](https://makerworld.com/en/models/937167)
 
