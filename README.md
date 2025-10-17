@@ -14,7 +14,9 @@ This design is an optimization of an existing case, with the **key highlight bei
 *   **Easy to Print and Assemble:** Simple, 3D-print-friendly design that requires no screws.
 
 ## Gallery
-![RP2350@0 5x](https://github.com/user-attachments/assets/24e19969-8ba2-40ce-9809-260a01e5ff9c)
+
+
+![RP2350-ONE@0 25x](https://github.com/user-attachments/assets/1c1cac96-3fbd-4838-81b0-a7f810afdfc5)
 
 
 
